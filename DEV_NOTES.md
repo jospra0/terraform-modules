@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Wrote notes on upcoming feature design
 - Improved log message formatting
+
+## 2026-03-22
+- Tested build on clean environment
+- Reviewed security headers configuration
